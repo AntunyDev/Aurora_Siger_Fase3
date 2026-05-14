@@ -1,6 +1,6 @@
 # Aurora Siger - Sistema de Gerenciamento Inteligente da Colônia (FASE 3)
 
-Este projeto foi desenvolvido para a disciplina de **Lógica e Estrutura de Dados**, representando o funcionamento inteligente de uma colônia espacial. O sistema integra organização de dados, tomada de decisão baseada em regras, modelos matemáticos de previsão e análise energética.
+Este projeto foi desenvolvido com foco nas disciplina de **Lógica e Estrutura de Dados**, representando o funcionamento inteligente de uma colônia espacial. O sistema integra organização de dados, tomada de decisão baseada em regras, modelos matemáticos de previsão e análise energética.
 
 ## 🚀 Funcionamento
 
